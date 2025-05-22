@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">Soy un Frontend Developer con experiencia en React.js, JavaScript, Tailwind CSS, AJAX y Vue.js, especializado en crear interfaces modernas, optimizadas y escalables. Me apasiona mejorar la experiencia del usuario y optimizar el rendimiento de aplicaciones web.<br><br>Además, tengo conocimientos en backend (Node.js, PHP, SQL, Laravel, API REST), lo que me permite desarrollar soluciones integrales y optimizar la comunicación entre frontend y backend.<br><br>🔹 Habilidades clave:<br>✅ Desarrollo de aplicaciones web dinámicas y responsivas<br>✅ Optimización de rendimiento y accesibilidad<br>✅ Integración de APIs y backend para potenciar el frontend<br>✅ Creación de experiencias UI/UX intuitivas<br><br>🌍 Ciudadano español y argentino, con autorización para trabajar en la UE sin necesidad de visa.<br><br>📌 Abierto a oportunidades remotas e internacionales.<br><br>💻 Portafolio: www.edmundoalvarez.com.ar<br>📧 Contacto: edmundoalvarezok@gmail.com</p>
+<p align="left">I am a Frontend Developer with experience in React.js, JavaScript, Tailwind CSS, and Vue.js, specializing in building modern, optimized, and scalable interfaces. I am passionate about enhancing user experiences and improving web application performance.<br><br>Additionally, I have backend knowledge (Node.js, PHP, SQL, Laravel, API REST), allowing me to develop full-stack solutions and optimize communication between frontend and backend.<br><br>🔹 Key Skills:<br>✅ Development of dynamic and responsive web applications<br>✅ Performance optimization and accessibility improvements<br>✅ API integration and backend development to enhance frontend capabilities<br>✅ Creating intuitive UI/UX experiences<br><br>🌍 Spanish and Argentine citizen, authorized to work in the EU without a visa.<br><br>📌 Open to remote and international opportunities.<br><br>💻 Portfolio: www.edmundoalvarez.com.ar<br>📧 Contact: edmundoalvarezok@gmail.com</p>
 
 ###
 
@@ -85,7 +85,6 @@
 ###
 
 <div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=edmundoalvarez&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=edmundoalvarez&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
 
@@ -98,24 +97,6 @@
   <a href="edmundoalvarezok@gmail.com" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
   </a>
-</div>
-
-###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/edmundoalvarez/edmundoalvarez/output/snake.svg" alt="Snake animation" />
-
-###
-
-<div align="center">
-  <img src="https://profile-counter.glitch.me/edmundoalvarez/count.svg?"  />
-</div>
-
-###
-
-<div align="center">
-  <img src="https://github-read-medium-git-main.pahlevikun.vercel.app/latest?limit=4" alt="Layout with last medium posts"  />
 </div>
 
 ###
